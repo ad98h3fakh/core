@@ -88,7 +88,7 @@
         "htmldiff-js": "^1.0.5",
         "lodash": "^4.17.20",
         "md5": "^2.3.0",
-        "ng-packagr": "^13.3.1",
+        "ng-packagr": "^15.0.2",
         "ng2-dragula": "^2.1.1",
         "ngx-markdown": "^13.1.0",
         "node-fetch": "^2.6.1",
